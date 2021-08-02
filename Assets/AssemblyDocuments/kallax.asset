@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e3c36a06a67394d934473b781efd61, type: 3}
+  m_Name: kallax
+  m_EditorClassIdentifier: 
+  _name: KALLAX
+  _twitchNames: []
+  _pages:
+  - {fileID: 2800000, guid: 8de142dd79a969e4380cb1df84ba9a5a, type: 3}
+  - {fileID: 2800000, guid: f6e7273fe3e8f52408b15eb9cfd6568d, type: 3}
+  - {fileID: 2800000, guid: ab8dbabee13dfe54a898a6c528563274, type: 3}
+  - {fileID: 2800000, guid: d9016ccf8c347d54b95c2f5fd3d5e24d, type: 3}
+  - {fileID: 2800000, guid: 21d715b101bd36c429b6fcc6c1e07842, type: 3}
+  - {fileID: 2800000, guid: dfbdff004e0000c488cf053d2d3e371c, type: 3}
+  - {fileID: 2800000, guid: 909db1f205562c641af728e1f6bdec49, type: 3}
+  - {fileID: 2800000, guid: 17bcbf041ff685e4284e7808cd7b3219, type: 3}
+  - {fileID: 2800000, guid: 5644dca4d048cd6468a271bc7dafef99, type: 3}
+  - {fileID: 2800000, guid: 8987b454f803b9549965d9fa5902b347, type: 3}
+  - {fileID: 2800000, guid: cabe28bd6eac6f1468d27f1a9d363c60, type: 3}
+  - {fileID: 2800000, guid: d54a00c71b0f4a7498700ba2903b9c9c, type: 3}
+  - {fileID: 2800000, guid: a5b35594d6287fe4c95af6b684b8ed75, type: 3}
+  - {fileID: 2800000, guid: 22b019460d0aabd4cb9dfe5ea1f9d464, type: 3}

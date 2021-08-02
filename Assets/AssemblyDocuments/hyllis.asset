@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e3c36a06a67394d934473b781efd61, type: 3}
+  m_Name: hyllis
+  m_EditorClassIdentifier: 
+  _name: HYLLIS
+  _twitchNames: []
+  _pages:
+  - {fileID: 2800000, guid: cd143595e1bcec648b3241c53ede594f, type: 3}
+  - {fileID: 2800000, guid: 9321cc8eac4cf5e4aa9fa5ac6bc03d56, type: 3}
+  - {fileID: 2800000, guid: 42a4bc73943766844a99352153b40685, type: 3}
+  - {fileID: 2800000, guid: 3d0425e5d24e98c47bf2be3355362795, type: 3}

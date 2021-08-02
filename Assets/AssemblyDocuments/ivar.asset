@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e3c36a06a67394d934473b781efd61, type: 3}
+  m_Name: ivar
+  m_EditorClassIdentifier: 
+  _name: IVAR
+  _twitchNames: []
+  _pages:
+  - {fileID: 2800000, guid: 8a4d2647b16e4c9499eadba02631376a, type: 3}
+  - {fileID: 2800000, guid: d854976bfaf3fd4488183f96c1fba4b3, type: 3}
+  - {fileID: 2800000, guid: 228174a8cb4618842961368d082711c7, type: 3}
+  - {fileID: 2800000, guid: 3b38b31115d7f26428e39bf7b9fc45dd, type: 3}
+  - {fileID: 2800000, guid: e9f435475108a664fb86be27ff4ecca3, type: 3}

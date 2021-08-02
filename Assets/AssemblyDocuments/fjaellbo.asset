@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e3c36a06a67394d934473b781efd61, type: 3}
+  m_Name: fjaellbo
+  m_EditorClassIdentifier: 
+  _name: "FJ\xC4LLBO"
+  _twitchNames:
+  - fjallbo
+  - fjaellbo
+  _pages:
+  - {fileID: 2800000, guid: 2d59667c38c755a43a3e899381af561b, type: 3}
+  - {fileID: 2800000, guid: 8e55780e13a2df24e8460566b57b4e7d, type: 3}
+  - {fileID: 2800000, guid: 05b062cf659bf734ebb0deae635e66f2, type: 3}
+  - {fileID: 2800000, guid: 837e09c762dabd04cac94683b0f05865, type: 3}
+  - {fileID: 2800000, guid: 487e9ccbafcc7174bbfd1a44d828721b, type: 3}
+  - {fileID: 2800000, guid: 2af3c9d35d5cb6f48baca5b9aa13c15b, type: 3}
+  - {fileID: 2800000, guid: d50475f67a316994ebd4bda141b34945, type: 3}
+  - {fileID: 2800000, guid: 8c308335262d6ee468342b0059e9fb79, type: 3}
+  - {fileID: 2800000, guid: 138a983ae4aa6b14b90b786e7c8021e8, type: 3}
+  - {fileID: 2800000, guid: cfcfee8c610d6064695c299d7c54614a, type: 3}
+  - {fileID: 2800000, guid: d43e00f2d246103498c8a49548e2ed95, type: 3}
+  - {fileID: 2800000, guid: 4cf899c654a08324eafacd29ede8d953, type: 3}
+  - {fileID: 2800000, guid: 95be37c88722bd24ca7520295114d7bb, type: 3}
+  - {fileID: 2800000, guid: ad75e530f7ca8dd4db6fa65e5d851d2d, type: 3}
+  - {fileID: 2800000, guid: 7f922be446c7cea45b7091e93053a80a, type: 3}
+  - {fileID: 2800000, guid: 66a4c2ba821bc5145b91d402c3fdd4ea, type: 3}
+  - {fileID: 2800000, guid: aa62c85d6debd644196fef5bc8e6804f, type: 3}

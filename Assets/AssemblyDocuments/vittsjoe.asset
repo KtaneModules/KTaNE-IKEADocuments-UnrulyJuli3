@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e3c36a06a67394d934473b781efd61, type: 3}
+  m_Name: vittsjoe
+  m_EditorClassIdentifier: 
+  _name: "VITTSJ\xD6"
+  _twitchNames:
+  - vittsjo
+  - vittsjoe
+  _pages:
+  - {fileID: 2800000, guid: 6b125f2c6379cde488dd5ba29ad8eab7, type: 3}
+  - {fileID: 2800000, guid: e31f833b6f2198443a546e7255c860e7, type: 3}
+  - {fileID: 2800000, guid: 950f7559008c76e4981ad31121a43293, type: 3}
+  - {fileID: 2800000, guid: 0dd0c31831808924389fa4cd13ec55b6, type: 3}
+  - {fileID: 2800000, guid: 17e68799c4c387840a0df8f7d32c292f, type: 3}
+  - {fileID: 2800000, guid: 4710cb0dee3f4a242a07c4f46f417118, type: 3}
+  - {fileID: 2800000, guid: 3fc564cbfdf8d5c40aac43a8754729f7, type: 3}
+  - {fileID: 2800000, guid: b4c0f6713dd880041a41584300f4a1d5, type: 3}
+  - {fileID: 2800000, guid: 1752fd8b26e1b9c41824f463fe699923, type: 3}
+  - {fileID: 2800000, guid: 28723fae3dd80874b972a4ebda4b1e3f, type: 3}
+  - {fileID: 2800000, guid: 7a166551ce40aaa4b83ca9431fbafcb9, type: 3}
+  - {fileID: 2800000, guid: d2cd6156fb775684caf539443a3cf2d7, type: 3}

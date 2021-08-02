@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e3c36a06a67394d934473b781efd61, type: 3}
+  m_Name: flysta
+  m_EditorClassIdentifier: 
+  _name: FLYSTA
+  _twitchNames: []
+  _pages:
+  - {fileID: 2800000, guid: ed34566fcd91ca64bb890e68a9303f2f, type: 3}
+  - {fileID: 2800000, guid: 92daa8e7e5bc6cc458a64db22834224f, type: 3}
+  - {fileID: 2800000, guid: 236e8bfde4b2e5e4dbc692a0e6537392, type: 3}
+  - {fileID: 2800000, guid: 6158d9171ec3a984ea46e77d0d567a76, type: 3}
+  - {fileID: 2800000, guid: 8fb66e12f10d4c34b9df5ad9f326839e, type: 3}
+  - {fileID: 2800000, guid: 54360d4b181172f468e7a4eb72fa29fd, type: 3}
+  - {fileID: 2800000, guid: 84958a8f88300e546b32a26342a3b3f1, type: 3}
+  - {fileID: 2800000, guid: 5bf0c1e726492b045a251f43848f519b, type: 3}
+  - {fileID: 2800000, guid: 78fe53f28d54b3c429b5959391fae6dd, type: 3}
+  - {fileID: 2800000, guid: 10acfe90f4caa52459b691872650c42c, type: 3}
+  - {fileID: 2800000, guid: c0d92e79219823f44bacf193fee76f96, type: 3}
+  - {fileID: 2800000, guid: 80e1d3ce0d781304ca6f62fd580950a4, type: 3}
+  - {fileID: 2800000, guid: 0c27f49893749a945a967598802aa4fa, type: 3}

@@ -18,6 +18,8 @@ public class IKEADocumentsScript : ModuleScript
 	private Renderer _pageRenderer;
 	[SerializeField]
 	private TextMesh _displayText;
+	[SerializeField]
+	private Texture2D _solveTexture;
 
 	internal int _correctIndex;
 	internal int _cycleIndex;
@@ -76,6 +78,12 @@ public class IKEADocumentsScript : ModuleScript
 		_cycleIndex = (_cycleIndex + offset).Modulo(_manuals.Length);
 		_displayText.text = _manuals[_cycleIndex].Name;
 		_displayText.fontSize = Mathf.FloorToInt(Mathf.Min(1f, 62f / GetWidth(_displayText)) * 110);
+	}
+
+	private new void Solve(params string[] logs)
+	{
+		base.Solve(logs);
+		_pageRenderer.material.mainTexture = _solveTexture;
 	}
 
 	internal void Submit()

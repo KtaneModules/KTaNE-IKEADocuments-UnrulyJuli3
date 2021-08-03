@@ -12,9 +12,7 @@ public class IKEADocumentsTPScript : TPScript<IKEADocumentsScript>
 		if (Module.IsSolved)
 			yield break;
 
-		yield return null;
-
-		yield return StartCoroutine(NavigateToIndex(Module._correctIndex));
+		yield return NavigateToIndex(Module._correctIndex);
 	}
 
 	private IEnumerator NavigateToIndex(int index)
@@ -42,7 +40,6 @@ public class IKEADocumentsTPScript : TPScript<IKEADocumentsScript>
 			yield break;
 		}
 
-		yield return null;
-		yield return StartCoroutine(NavigateToIndex(index));
+		yield return NavigateToIndex(index);
 	}
 }

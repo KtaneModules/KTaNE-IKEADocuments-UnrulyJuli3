@@ -1196,6 +1196,7 @@ MonoBehaviour:
   _submitButton: {fileID: 114563926599101122}
   _pageRenderer: {fileID: 23687167696352874}
   _displayText: {fileID: 102938884917253932}
+  _solveTexture: {fileID: 2800000, guid: 41d05d0e2c6a6ac43a7bb4ff04f3a8f6, type: 3}
 --- !u!114 &114644005477440128
 MonoBehaviour:
   m_ObjectHideFlags: 1

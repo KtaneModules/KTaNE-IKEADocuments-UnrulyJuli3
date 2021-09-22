@@ -16,7 +16,7 @@ MonoBehaviour:
   author: TheDarkSid3r
   description: "NOTE: Do not touch the hardware. You will die.\r\n\r\nThis module
     is TP supported."
-  version: 1.1
+  version: 1.1a
   outputFolder: D:\Program Files (x86)\Steam\steamapps\common\Keep Talking and Nobody
     Explodes\mods
   previewImage: {fileID: 2800000, guid: 0f0d91bdba245984283fe569f8a61e55, type: 3}
